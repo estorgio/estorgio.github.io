@@ -1,0 +1,21 @@
+body {
+    background-color: #fafafa;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+img.profile-picture {
+    width: 100px;
+}
+
+.vcenter {
+    margin-top: 10%;
+}
+
+a.social {
+    font-size: 2.5em;
+}
+
+a.social:hover {
+    text-decoration: none;
+}
