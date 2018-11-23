@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://estorgio.me/sitemap.xml
+Sitemap: https://estorgio.com/sitemap.xml
